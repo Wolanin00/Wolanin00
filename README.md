@@ -10,4 +10,4 @@
 - [My First Blog 📖](https://github.com/Wolanin00/My_First_Blog)
 
 ## My GitHub Stats
-![Wolanin00's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wolanin00&show_icons=true&theme=radical)
+![wolanin00 GitHub stats](https://github-readme-stats.vercel.app/api?username=wolanin00&show_icons=true&theme=radical)
