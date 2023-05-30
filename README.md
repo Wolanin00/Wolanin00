@@ -8,6 +8,7 @@
 
 ## Portfolio project
 - [My First Blog 📖](https://github.com/Wolanin00/My_First_Blog)
+- [My (small) Library 📚](https://github.com/Wolanin00/My_Library)
 
 ## My GitHub Stats
 ![wolanin00 GitHub stats](https://github-readme-stats.vercel.app/api?username=wolanin00&show_icons=true&theme=radical)
