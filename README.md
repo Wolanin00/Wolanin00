@@ -11,4 +11,4 @@
 - [My (small) Library 📚](https://github.com/Wolanin00/My_Library)
 
 ## My GitHub Stats
-![wolanin00 GitHub stats](https://github-readme-stats.vercel.app/api?username=wolanin00&show_icons=true&theme=radical)
+![Mathew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wolanin00&show_icons=true&theme=default)
