@@ -7,6 +7,7 @@
 - 📩 How to reach me szewczykmateusz64@gmail.com
 
 ## Portfolio project
+- [My First Portfolio 📃](https://github.com/Wolanin00/Portfolio_Page_1)
 - [My First Blog 📖](https://github.com/Wolanin00/My_First_Blog)
 - [My (small) Library 📚](https://github.com/Wolanin00/My_Library)
 
