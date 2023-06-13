@@ -8,6 +8,7 @@
 
 ## Portfolio project
 - [My First Portfolio 📃](https://github.com/Wolanin00/Portfolio_Page_1)
+- [My Portfolio Page #2 (in progress)🤠](https://github.com/Wolanin00/Portfolio_Page_2)
 - [My First Blog 📖](https://github.com/Wolanin00/My_First_Blog)
 - [My Top 10 Movies 🎬](https://github.com/Wolanin00/My_Top_10_Movies)
 - [My (small) Library 📚](https://github.com/Wolanin00/My_Library)
